@@ -217,7 +217,7 @@ Brew is a package manager that we use to install various command line applicatio
 
 Open your terminal (`Applications > Utilities > Terminal`), paste the following command, and hit enter:
 
-    ```bash
+  ```bash
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
     ```
 
@@ -225,7 +225,7 @@ Open your terminal (`Applications > Utilities > Terminal`), paste the following 
 
 Git is used to track the state of your code over time. [GitHub](https://github.com) has built its platform on Git technology. We will be using both Git and GitHub to distribute code, submit assignments, and offer feedback. Use the following command to install Git:
 
-    ```bash
+  ```bash
     brew install git
     ```
 
