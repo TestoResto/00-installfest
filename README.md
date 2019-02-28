@@ -217,26 +217,26 @@ Brew is a package manager that we use to install various command line applicatio
 
 Open your terminal (`Applications > Utilities > Terminal`), paste the following command, and hit enter:
 
-    ```bash
-    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    ```
+  ```bash
+  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  ```
 
 2. __Install Git__
 
 Git is used to track the state of your code over time. [GitHub](https://github.com) has built its platform on Git technology. We will be using both Git and GitHub to distribute code, submit assignments, and offer feedback. Use the following command to install Git:
 
-    ```bash
-    brew install git
-    ```
+  ```bash
+  brew install git
+  ```
 
 3. __Configure Git__
 
 Copy and paste the following two commands (separately) into your terminal. Replace the name and email address values with your own.
 
-    ```bash
-    git config --global user.name "Steve Jobs"
-    git config --global user.email "steve@apple.com"
-    ```
+  ```bash
+  git config --global user.name "Steve Jobs"
+  git config --global user.email "steve@apple.com"
+  ```
 
 4. __Install Node__
 
@@ -246,9 +246,9 @@ Refer to the package installer on Node’s [website](https://nodejs.org/en/). Ju
 
 Node has a handy package manager, which we will using frequently. It comes with Node, but NPM is updated more frequently; you will always need to have the most up-to-date version.
 
-    ```bash
-    npm install npm -g
-    ```
+  ```bash
+  npm install npm -g
+  ```
 
 6. __Install Sublime Text 3__
 
@@ -269,10 +269,10 @@ In order to interact with Git, you'll need to first open the Git Bash utility. A
 
 Copy and paste the following two commands (separately) into your terminal. Replace the name and email address values with your own.
 
-    ```bash
-    git config --global user.name "Steve Jobs"
-    git config --global user.email "steve@apple.com"
-    ```
+  ```bash
+  git config --global user.name "Steve Jobs"
+  git config --global user.email "steve@apple.com"
+  ```
 
 3. __Install Node__
 Refer to the package installer on Node’s [website](https://nodejs.org/en/). Just follow the set-up instructions.
