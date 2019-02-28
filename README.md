@@ -291,37 +291,37 @@ Git is a tool used to track the state of your code over time. [GitHub](https://g
 
 Git can be installed by running the following command:
 
-    ```bash
-    sudo apt-get install build-essential git-core curl
-    ```
+  ```bash
+  sudo apt-get install build-essential git-core curl
+  ```
 
 2. __Configure Git__
 
 Copy and paste the following two commands (separately) into your terminal. Replace the name and email address values with your own.
 
-    ```bash
-    git config --global user.name "Steve Jobs"
-    git config --global user.email "steve@apple.com"
-    ```
+  ```bash
+  git config --global user.name "Steve Jobs"
+  git config --global user.email "steve@apple.com"
+  ```
 
 3. __Install Node.js__
 
-    ```bash
-    curl --silent --location https://deb.nodesource.com/setup_6.x | sudo -E bash -
-    sudo apt-get install --yes nodejs
-    apt-get install --yes build-essential
-    ```
+  ```bash
+  curl --silent --location https://deb.nodesource.com/setup_6.x | sudo -E bash -
+  sudo apt-get install --yes nodejs
+  apt-get install --yes build-essential
+  ```
 
 4. __Install Sublime Text 3__
 
 Sublime Text can be found [here](http://www.sublimetext.com/3) and is available for all platforms, but you are free to use any code editor you choose. Popular choices include [Atom](http://atom.io) (Mac and Windows) and [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) (all platforms).
 
 
-    ```bash
-    sudo add-apt-repository ppa:webupd8team/sublime-text-3
-    sudo apt-get update
-    sudo apt-get install sublime-text-installer
-    ```
+  ```bash
+  sudo add-apt-repository ppa:webupd8team/sublime-text-3
+  sudo apt-get update
+  sudo apt-get install sublime-text-installer
+  ```
 
 You’re all set! Test it out with `subl` and  ask a member of the instructional team to verify that the installation was successful.
 
