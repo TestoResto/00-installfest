@@ -256,12 +256,12 @@ When you’re done, raise your hand and ask a member of the instructional team t
 
 [Git for Windows](https://gitforwindows.org/)
 
-1. __Install Git__
+2. __Install Git__
 
 Git is used to track the state of your code over time. [GitHub](https://github.com) has built its platform on Git technology. We will be using both Git and GitHub in this class to distribute code, submit assignments, and offer feedback.
 Git can be downloaded and installed from [this](https://git-scm.com/download/win) URL.
 
-1. __Configure Git__
+3. __Configure Git__
 
 In order to interact with Git, you'll need to first open the Git Bash utility. A quick way to access this terminal is by right clicking your desktop and choosing "Git Bash".
 
@@ -272,10 +272,10 @@ Copy and paste the following two commands (separately) into your terminal. Repla
   git config --global user.email "steve@apple.com"
   ```
 
-1. __Install Node__
+4. __Install Node__
 Refer to the package installer on Node’s [website](https://nodejs.org/en/). Just follow the set-up instructions.
 
-1. __Install Sublime Text__
+5. __Install Sublime Text__
 
 Sublime Text can be found [here](http://www.sublimetext.com/3) and is available for all platforms, but you are free to use any code editor that you are comfortable with. Other popular choices are [Atom](http://atom.io) (Mac and Windows) and [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) (all platforms).
 
