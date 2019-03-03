@@ -374,8 +374,6 @@ Write the pseudocode for a program that controls a light that changes color base
 * Ask groups to identify common patterns and problems.
 * Prompt students to consider communication differences between code and people.
 
-Check the [pseudocode.md](solution-code/pseudocode_solution.md) file in the solution code folder for examples.
-
 ---
 <a name="conclusion"></a>
 ## Conclusion (10 min)
