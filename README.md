@@ -39,8 +39,6 @@ This course covers the fundamental concepts of JavaScript.
 
 The instructional team should have already introduced themselves (or have been introduced by the course producer) at the beginning of class. At this point, you should give students the opportunity to introduce themselves.
 
-> Note: Go around the room in a circle and ask each student to give a brief introduction. You can invite them to talk about why JavaScript interests them, what they hope to get out of the class, and any previous experience they have with Web development.
-
 ----
 <a name="structure"></a>
 ### Structure & Benchmarks (10 min)
@@ -74,8 +72,6 @@ Let's start by defining a few terms and situating JavaScript in the broader Web 
 * _Web Development_: The process of building sites and applications for the Web.
 * _Front-End Development_: The development of client / browser code (HTML, CSS, JS), i.e., what the user sees and interacts with.
 * _Back-End Development_ : The development of server-side code that handles such functions as routing, data handling, and databases (Ruby, Python, Java, Javascript), i.e., the “stuff behind the scenes” that makes Web applications work.
-
->Note: A good analogy here is to compare the Web app to a retail clothing store. The _Front-End_ is the store itself; the things you as the buyer interact with. The store has a thought-out layout and structure (ie; HTML), it looks great with lighting and styling (ie; CSS), and you can interact with it by trying on or purchasing clothes (ie; Javascript). All the things you don't see but which are critical to a functioning retail store are the _Back-End_; logistics for shipping products to the store, scheduling rosters for staff, handling finances with a bank, etc.
 
 In this class, you will be learning both functional and object-oriented programming (OOP). Understanding the core differences between these two programming paradigms is essential to understanding the concepts in this class and, ultimately, becoming a more efficient programmer.
 
@@ -165,8 +161,6 @@ We'll be using Slack to register attendance and communicate during class. Follow
 * Visit the following [site](https://slack.com/downloads) to download the application.
 * Sign up using your email and join your class Slack channel.
 * Upload a profile picture to Slack.
-
-> Note: __Unlike other GA courses, each JavaScript Development class should have its own organization on Slack__ because we'll need to generate Slack API tokens for students for the Slackbot exercises and unit project. Since the number of integrations for each Slack organization is limited, we strongly recommend that you set up a new organization and invite students before or during the first class. For the purposes of the course, [a free Slack organization](https://get.slack.help/hc/en-us/articles/201723133-Billing-FAQ#can-i-use-slack-for-free) should be sufficient [click here for instructions on how to set up a new Slack organization](https://ganyceveningcourses.slack.com/getting-started/admins) for your class.
 
 ---
 <a name="install2"></a>
@@ -258,12 +252,16 @@ When you’re done, raise your hand and ask a member of the instructional team t
 
 #### Windows
 
-2. __Install Git__
+1. __Install GitBash for Windows__
+
+[Git for Windows](https://gitforwindows.org/)
+
+1. __Install Git__
 
 Git is used to track the state of your code over time. [GitHub](https://github.com) has built its platform on Git technology. We will be using both Git and GitHub in this class to distribute code, submit assignments, and offer feedback.
 Git can be downloaded and installed from [this](https://git-scm.com/download/win) URL.
 
-3. __Configure Git__
+1. __Configure Git__
 
 In order to interact with Git, you'll need to first open the Git Bash utility. A quick way to access this terminal is by right clicking your desktop and choosing "Git Bash".
 
@@ -274,10 +272,10 @@ Copy and paste the following two commands (separately) into your terminal. Repla
   git config --global user.email "steve@apple.com"
   ```
 
-3. __Install Node__
+1. __Install Node__
 Refer to the package installer on Node’s [website](https://nodejs.org/en/). Just follow the set-up instructions.
 
-4. __Install Sublime Text__
+1. __Install Sublime Text__
 
 Sublime Text can be found [here](http://www.sublimetext.com/3) and is available for all platforms, but you are free to use any code editor that you are comfortable with. Other popular choices are [Atom](http://atom.io) (Mac and Windows) and [Visual Studio Code](https://code.visualstudio.com/#alt-downloads) (all platforms).
 
